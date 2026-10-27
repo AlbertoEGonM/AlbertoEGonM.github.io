@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alberto-gonzalez-portafolio.gonzalezmartin394637.chatgpt.site/sitemap.xml
